@@ -78,7 +78,7 @@ function App(): React.JSX.Element {
           }}>
           <Section title="Step One">
             Edit aibhi <Text style={styles.highlight}>App.tsx</Text> git addto change this
-            screen and then come back to see your edits.
+            screen and then come back to see your edits.ahbehbednj
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
